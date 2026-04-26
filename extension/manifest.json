@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Smart Grievance Analyzer",
+  "version": "1.0",
+  "description": "Classify and prioritize complaints",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
